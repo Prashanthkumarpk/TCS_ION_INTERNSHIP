@@ -1,4 +1,4 @@
-#Automate Detection of different Sentiments from Textual Comments and Feedback
+#Automate Detection of different Sentiments from Textual Comments and Feedback(Sentiments analysis )
 Project Synopsis: -
 Project Description:
 Project Objective & Brief: To develop a deep learning algorithm to detect different types of sentiment contained in a collection of English Sentences or a large paragraph.
@@ -10,7 +10,7 @@ Project Objective & Brief: To develop a deep learning algorithm to detect differ
 2)Performance metrics  included:
 	Accuracy
 	Precision 
-	Recall
+	Recal
 	F1 Score
 
 Solution Approach: 
